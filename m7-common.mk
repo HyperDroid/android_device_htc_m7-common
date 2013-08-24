@@ -133,7 +133,8 @@ PRODUCT_PACKAGES += \
 
 # Misc Packages
 PRODUCT_PACKAGES += \
-    Torch
+    Torch \
+    CMAccount
 
 # Prepatch to fix BT/WiFi bus lockups
 PRODUCT_COPY_FILES += \
